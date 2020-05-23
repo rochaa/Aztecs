@@ -1,5 +1,4 @@
-# Aztecs
-<b> Crud & Api with Go and MongoDB. </b>
+# Crud & Api with Go and MongoDB.
 
 Go
 
